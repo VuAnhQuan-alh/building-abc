@@ -1,0 +1,16 @@
+{
+  "name": "building-a-blockchain-with-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  },
+  "scripts": {
+    "dev": "ts-node main"
+  },
+  "devDependencies": {
+    "@types/crypto-js": "^4.2.1",
+    "@types/node": "^20.10.3"
+  }
+}
